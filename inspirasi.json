@@ -1,0 +1,38 @@
+{
+    "status": true,
+    "msg": "4 Produk ditampilkan",
+    "data": [
+        {
+            "nama": "Memburu Berkah dengan Bangun Pagi",
+            "penulis": "Haidar Musyafa",
+            "harga": "53.000",
+            "hal": " 75 hal",
+            "foto": "https://cdn.gramedia.com/uploads/items/9786237046615__w149_hauto.jpg",
+            "link": "https://www.gramedia.com/products/memburu-berkah-dengan-bangun-pagi"
+        },
+        {
+            "nama": "Saat Semesta Bicara",
+            "penulis": "W. Mustika",
+            "harga": "68.800",
+            "hal": "110 hal",
+            "foto": "https://cdn.gramedia.com/uploads/items/9786020260921_Saat-Semesta-Bicara-Edisi-Baru_Cover-abru__w149_hauto.jpg",
+            "link": "https://www.gramedia.com/products/saat-semesta-bicara-edisi-baru-cover-baru"
+        },
+        {
+            "nama": "Kekuatan Memaafkan",
+            "penulis": "Amy Newmark",
+            "harga": "87.500",
+            "hal": "504 hal",
+            "foto": "https://cdn.gramedia.com/uploads/items/9786020375083_Chicken-Soup-for-The-Soul_Kekuatan-Memaafkan__w149_hauto.jpg",
+            "link": "https://www.gramedia.com/products/chicken-soup-for-the-soul-kekuatan-memaafkan"
+        },
+        {
+            "nama": "Menuju Hati yang Selesai",
+            "penulis": "Doni Febriando",
+            "harga": "49.500",
+            "hal": "136 hal",
+            "foto": "https://cdn.gramedia.com/uploads/images/1/43181/image_highres/ID_MHS2018MTH07MHS__w149_hauto.jpg",
+            "link": "https://www.gramedia.com/products/menuju-hati-yang-selesai"
+        }
+    ]
+}

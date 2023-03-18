@@ -1,0 +1,22 @@
+{
+    "status": true,
+    "msg": "2 Produk ditampilkan",
+    "data": [
+        {
+            "nama": "Kompilasi Hukum Islam",
+            "penulis": "Tim Permata Press",
+            "harga": "43.500",
+            "hal": "234 Hal",
+            "foto": "https://cdn.gramedia.com/uploads/items/Kompilasi__w149_hauto.jpg",
+            "link": "https://www.gramedia.com/products/kompilasi-hukum-islam-khi-hukum-perkawinan"
+        },
+        {
+            "nama": "Empat Imam Mazhab",
+            "penulis": "MUHAMMAD WILDAN AULIYA D.U",
+            "harga": "58.650",
+            "hal": "308 Hal",
+            "foto": "https://cdn.gramedia.com/uploads/items/Empat_Imam__w149_hauto.jpg",
+            "link": "https://www.gramedia.com/products/kompilasi-hukum-islam-khi-hukum-perkawinan"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "status": true,
+    "msg": "5 Produk ditampilkan",
+    "data": [
+        {
+            "nama": "Agama Dan Kehidupan Jilid 1",
+            "penulis": "Murtadha Muthahhari",
+            "harga": "72.250",
+            "hal": "293 hal",
+            "foto": "https://cdn.gramedia.com/uploads/picture_meta/2023/2/16/ak7wtn3wvxq4quyxya9jux__w149_hauto.jpg",
+            "link": "https://www.gramedia.com/products/agama-dan-kehidupan-pesan-pesan-inspiratif-jilid-1"
+        },
+        {
+            "nama": "Salawat Yang Terpenggal",
+            "penulis": "Sayid Muhammad Hasyim Madani",
+            "harga": "97.750",
+            "hal": "455 hal",
+            "foto": "https://cdn.gramedia.com/uploads/picture_meta/2023/2/16/6pxhsyr3awrsqbrcu9naeq__w149_hauto.jpg",
+            "link": "https://www.gramedia.com/products/salawat-yang-terpenggal"
+        },
+        {
+            "nama": "Saripati Islam Jilid I",
+            "penulis": "Dr. Hakimelahi",
+            "harga": "114.750",
+            "hal": "486 hal",
+            "foto": "https://cdn.gramedia.com/uploads/picture_meta/2023/2/16/fxoje2uhyv7vbfrvmcc5ur__w149_hauto.jpg",
+            "link": "https://www.gramedia.com/products/saripati-islam-mengurai-makna-menjemput-hakikat-jilid-1"
+        },
+        {
+            "nama": "Jangan Mau Jadi Muslimah Dekil",
+            "penulis": "Rina Maruti",
+            "harga": "59.500",
+            "hal": "114 hal",
+            "foto": "https://cdn.gramedia.com/uploads/picture_meta/2023/2/14/w9xqj9vf3viqgv6bqur5zm__w149_hauto.jpg",
+            "link": "https://www.gramedia.com/products/jangan-mau-jadi-muslimah-dekil"
+        },
+        {
+            "nama": "Pengantar Ilmu Balaghah",
+            "penulis": "Prof. Dr. Yayan Nurbayan",
+            "harga": "62.900",
+            "hal": "214 hal",
+            "foto": "https://cdn.gramedia.com/uploads/picture_meta/2023/2/14/ososra99n7vswcnvxxe7i2__w149_hauto.jpg",
+            "link": "https://www.gramedia.com/products/pengantar-ilmu-balaghah"
+        }
+    ]
+}

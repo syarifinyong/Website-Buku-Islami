@@ -1,0 +1,14 @@
+{
+    "status": true,
+    "msg": "1 Produk ditampilkan",
+    "data": [
+        {
+            "nama": "Al-Qur'An Besar",
+            "penulis": "Cordoba International",
+            "harga": "234.500",
+            "hal": "6080 hal",
+            "foto": "https://cdn.gramedia.com/uploads/items/alquran_xbgoTCO__w149_hauto.jpg",
+            "link": "https://www.gramedia.com/products/menuju-hati-yang-selesai"
+        }
+    ]
+}
